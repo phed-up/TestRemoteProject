@@ -351,8 +351,6 @@ class ViewController: UIViewController {
     {
         
         
-       
-        
         if (player1Score + deadBall + player2Score) == 10
 
         {
